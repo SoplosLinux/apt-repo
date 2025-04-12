@@ -1,0 +1,3 @@
+for pkg in incoming/*.deb; do
+    reprepro includedeb stable "$pkg"
+done
