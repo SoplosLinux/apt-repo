@@ -1,0 +1,112 @@
+Package: soplos-docklike
+Version: 1.0.0
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, dbus-x11, debhelper-compat, dh-python, gettext, gir1.2-gtk-3.0, python3-all, python3-cairo, python3-dbus, python3-gi, python3-setuptools, xfce4-docklike-plugin, xfce4-panel (>= 4.14) | xfce4-panel (<< 4.21), xfconf
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-docklike/soplos-docklike_1.0.0_all.deb
+Size: 96932
+SHA256: 43257d1403f60e393b157c14dc53ee60b81589d9ebe6af8574e6b7ccc1c00bd5
+SHA1: e18a973f3a6dedbd2c453e0ba5d5da45827f218c
+MD5sum: 603300c6ee1e09418e455451479eb702
+Description: Docklike apps manager
+
+Package: soplos-grub-editor
+Version: 1.0.0
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, debhelper-compat, gir1.2-polkit-1.0, grub2-common | grub2, imagemagick, pkexec, polkitd, python3-all, python3-cairo, python3-dbus, python3-gi, python3-pil, python3-polib, python3-setuptools, python3-xlib
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-grub-editor/soplos-grub-editor_1.0.0_all.deb
+Size: 113740
+SHA256: 3233e2faabb95442fb776b54b0114d177e0305228fc1566a5a1835e2c97361fc
+SHA1: 44244e8fc2a2bf14b142765f9cfaab8572e0b4ab
+MD5sum: f1e71cd776ae667e60b4a6bc455bda7b
+Description: Graphical GRUB Editor
+
+Package: soplos-iso-builder
+Version: 1.0.0
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, debhelper-compat, dh-python, gir1.2-gtk-3.0, grub-common, mtools, python3-all, python3-gi, python3-setuptools, squashfs-tools
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-iso-builder/soplos-iso-builder_1.0.0_all.deb
+Size: 102636
+SHA256: cc244918d2cb969dd7b73b05b3f4ce376d0b18818aaa5105cf05c41f87b0af9a
+SHA1: 77e360402476f0b52b00a3cd26f52b3a7d8714b1
+MD5sum: cd47346f43129d643dc26ac80ab9cc88
+Description: Creates ISO Linux Live Desktop
+
+Package: soplos-packager
+Version: 1.0.0
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, debhelper-compat, dh-python, dpkg-dev, gir1.2-gtk-3.0, libgtk-3-0, make, policykit-1 | pkexec, python3, python3-all, python3-gi, python3-setuptools, python3-xlib
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-packager/soplos-packager_1.0.0_all.deb
+Size: 108564
+SHA256: 970b65380d3f8330a3ea1e61e4d0c4f4d09f76db4bef7339858daa1936b3ba91
+SHA1: 2b0b5c16d10ec95fffab61f8a1b386be44952073
+MD5sum: 5faad77511b4d566422cccb178ac8ce1
+Description: Packager apps to .deb
+
+Package: soplos-plymouth-manager
+Version: 1.0.0
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, debhelper-compat, dh-python, gir1.2-gtk-3.0, plymouth, plymouth-x11, polkit | policykit-1-gnome | policykit-1, procps, python3-all, python3-dbus, python3-gi, python3-pil | python3-pillow, python3-psutil, python3-setuptools, python3-xdg, scrot | imagemagick, tar, unzip
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-plymouth-manager/soplos-plymouth-manager_1.0.0_all.deb
+Size: 105484
+SHA256: b1d150363e8f9a946c989c2168172cb381b77e322831b99ca04295536fa3d332
+SHA1: 677bec69834932ef09045b6ef0f1f1de8958d965
+MD5sum: dd3c660bff78ba46cd81a99d86f4af33
+Description: Plymouth theme manager
+
+Package: soplos-theme-manager
+Version: 1.0.3
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, debhelper-compat, gir1.2-gtk-3.0 | python3-gi-cairo, libnotify-bin | notify-osd, mugshot | gnome-control-center | unity-control-center, python3, python3-cairo | python-cairo, python3-dbus | python-dbus, python3-gi (>= 3.20) | python-gi (>= 3.20), python3-psutil | python-psutil, python3-setuptools, python3-xlib | python-xlib, scrot | gnome-screenshot | imagemagick, wmctrl, xfce4-panel | xfce4-panel-gtk3, xfconf, xfdesktop4 | xfdesktop
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-theme-manager/soplos-theme-manager_1.0.3_all.deb
+Size: 17510460
+SHA256: d1a8364cf32185fbd01b0f634626889a0725447b233dc4cb71c9d0a7e1a7b3ee
+SHA1: 40414f62d3f045ee716c7bc3c660d49cc25847b1
+MD5sum: cecfedb0913bd3d95116d496891a4d79
+Description: Theme manager for xfce
+
+Package: soplos-welcome
+Version: 1.0.3
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, curl, debhelper-compat, dh-python, gir1.2-gtk-3.0, python3-all, python3-gi, python3-psutil, python3-setuptools, python3-xlib, wget
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-welcome/soplos-welcome_1.0.3_all.deb
+Size: 14022860
+SHA256: b12c30681ec8ec8769b06785272a04b8e956539803c3cc139092644085441aaf
+SHA1: cb5f26fab8dfb2477900561e103c4e877bff820b
+MD5sum: 98b97ec1672c01628706085287b905f1
+Description: Welcome to Soplos Linux
+
+Package: soplos-welcome-live
+Version: 1.0.2
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, debhelper-compat, dh-python, gir1.2-gtk-3.0, python3-all, python3-gi, python3-setuptools
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-welcome-live/soplos-welcome-live_1.0.2_all.deb
+Size: 313216
+SHA256: f2a16770b00f6e66dc675aaad7d04f330f0d62a6eded37e0ad9f0d6d81830bcb
+SHA1: 3cf18a3906fc744c22cb4b77d7bb4e832e425882
+MD5sum: 020b1bf90eda7f6253922b872455afd2
+Description: Welcome to Soplos Linux Live
+
