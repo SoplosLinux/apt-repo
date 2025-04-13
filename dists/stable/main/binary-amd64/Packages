@@ -7,9 +7,9 @@ Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-docklike/soplos-docklike_1.0.0_all.deb
 Size: 96920
-SHA256: 75e01eafdbd2c0add55119d5d1173bd98e8c60a8d462685dc187b0c87dec7355
-SHA1: a596dec86cb0fbab4dd52d764fe14974e562e0d3
-MD5sum: 315167abd12a679ab0f690ebc0a711b7
+SHA256: ca209781946cb7bd3bf35d1c45f249876f4ca0958f570a90c6db47ee34ee3570
+SHA1: 17f2bc76b323f7e2efb4d4fdcefe52f05c772397
+MD5sum: f1b1006a5952289c73ec0ce755c6d98f
 Description: Docklike apps manager
 
 Package: soplos-grub-editor
@@ -20,10 +20,10 @@ Maintainer: Sergi Perich <info@sergiperich.es>
 Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-grub-editor/soplos-grub-editor_1.0.0_all.deb
-Size: 113732
-SHA256: 7ae33681cd5f5dc3fb4e84705fd8229d608162ac10b088801bada9df16b58265
-SHA1: 6e67b0ef8661f8b7008dbebcd8a0c9222bf6f375
-MD5sum: 8b5b4bea81c03ad0a8f1b4d9299f31cf
+Size: 113768
+SHA256: a0f5bb03dc3dc886aec9e05aef5cbed8615b518cabd2883628b9479b9c4239af
+SHA1: 1218e4f4567e7461c4d1e55813ba24a4629216a6
+MD5sum: 9de0ea45dd0b63553a57f8d57a4fe283
 Description: Graphical GRUB Editor
 
 Package: soplos-iso-builder
@@ -34,10 +34,10 @@ Maintainer: Sergi Perich <info@sergiperich.es>
 Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-iso-builder/soplos-iso-builder_1.0.0_all.deb
-Size: 102656
-SHA256: 16a2b97daaa96a2db7d585299cc2731ccee278672994f7efc4906e9abfb80d57
-SHA1: 33a463360fc983dee86eff491ef1747ce7540d69
-MD5sum: 874cff5854e6fa69f199d60b01ed6546
+Size: 102632
+SHA256: 96d8000e0b89f8652303bc8c1765c4e2fa6fb39a80d35b57f84d506116741a01
+SHA1: 54220d8487c2b33304ed3e414c4e3791339cee71
+MD5sum: 03ff979bcbf06a088dcb0c6e62c48034
 Description: Creates ISO Linux Live Desktop
 
 Package: soplos-packager
@@ -48,10 +48,10 @@ Maintainer: Sergi Perich <info@sergiperich.es>
 Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-packager/soplos-packager_1.0.0_all.deb
-Size: 108576
-SHA256: 3718d538dbbf862a68eb59cd97f765394a1bc837d7321934144908a1f1b03456
-SHA1: 77f46bcb565c757426dc48b575255c9f40decda0
-MD5sum: 2d8180ad2536503be70ab75ab7fed5f6
+Size: 108592
+SHA256: 6f61576dee23586d1c4b23c42a651f4a7936b35fbebd764d24c586a440736a04
+SHA1: d74be0adf625f40dfcb1ce6ca09dc16ab99aa9d9
+MD5sum: fdb06993b21bfbb43b76a401f63a7b7b
 Description: Packager apps to .deb
 
 Package: soplos-plymouth-manager
@@ -62,10 +62,10 @@ Maintainer: Sergi Perich <info@sergiperich.es>
 Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-plymouth-manager/soplos-plymouth-manager_1.0.0_all.deb
-Size: 105492
-SHA256: 7277130dc87fc63cf293fb13788dd2b3ad0b6cbbc11c0c2aaf49ade46ad85cde
-SHA1: 2ff8c1638b5898c1a7877a3672a2e60d0f077351
-MD5sum: eaac00a2dc3e1efefbb7515175e2be47
+Size: 105488
+SHA256: aa97434af2728176d30c1baaa794f776760783e4dea2979f25afb330f71b6a8e
+SHA1: 619db0af93f2b62523523a434a13a3e335310013
+MD5sum: a4f92ff06511b085719e4a714ec2822f
 Description: Plymouth theme manager
 
 Package: soplos-theme-manager
@@ -76,10 +76,10 @@ Maintainer: Sergi Perich <info@sergiperich.es>
 Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-theme-manager/soplos-theme-manager_1.0.3_all.deb
-Size: 17510436
-SHA256: c5889f4bb6dbad43b52ba84323655d243ba4cf55e8475831ed9609d3ea25f3e6
-SHA1: 1bdc60df4b8b367b89eb6fa37c91428a2740491d
-MD5sum: de9d16a52089ff752f2b6553a0e8dba8
+Size: 17510596
+SHA256: 90ba6eb7e1b1716afd8b6aaeb06ec90d1624ea280bef742cf5575e941537689c
+SHA1: 1a04473a40a078e4bf213f53a16941faf70e2b3a
+MD5sum: 454b7914e39a68594e393e2d6d9099f7
 Description: Theme manager for xfce
 
 Package: soplos-welcome
@@ -90,10 +90,10 @@ Maintainer: Sergi Perich <info@sergiperich.es>
 Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-welcome/soplos-welcome_1.0.3_all.deb
-Size: 14022840
-SHA256: 178d62ed5f5c2a150856f037681a8d8273939c47cfb5f60aacd3f2af60eaea5a
-SHA1: b1c69f65f35f50ac114d307a3ff3b883734a51fc
-MD5sum: 3dede37d8bdd9ef39f1ffb7f7f3f036c
+Size: 14023004
+SHA256: 7ac48d538e17762ecf86ce967369632c6b0e502f652519f8b85eb866edcff7ba
+SHA1: fb3a784c4151789acb0da00eace1f86bb0f79dd7
+MD5sum: 6359c46914bee8878f5be479321222e9
 Description: Welcome to Soplos Linux
 
 Package: soplos-welcome-live
@@ -104,9 +104,9 @@ Maintainer: Sergi Perich <info@sergiperich.es>
 Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-welcome-live/soplos-welcome-live_1.0.2_all.deb
-Size: 313228
-SHA256: abf91e073d938921b797a4573411b0352e9cb7f0dd87ab2c39d0cdcd1f2bacc2
-SHA1: 4d3529ee02ed4c2676b50a8087d542ef3bcb7f76
-MD5sum: 114ec8ea314dabeaeacd1571eb8102dc
+Size: 313224
+SHA256: aedf87d74fcce1c0c7202a07e4e7ad3bdfad70bb425725d5cb9d93dbdf80cb88
+SHA1: 78848024232fbc034edfc46a9ebc3c4b42fc0439
+MD5sum: 9482a904333b4335da582e174129896a
 Description: Welcome to Soplos Linux Live
 
