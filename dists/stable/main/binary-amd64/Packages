@@ -68,6 +68,20 @@ SHA1: 619db0af93f2b62523523a434a13a3e335310013
 MD5sum: a4f92ff06511b085719e4a714ec2822f
 Description: Plymouth theme manager
 
+Package: soplos-repo-manager
+Version: 0.0.1
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, apt-utils, debhelper-compat, dh-python, dpkg, gir1.2-gtk-3.0, git, gnupg, python3-all, python3-gi, python3-git, python3-pip, python3-setuptools, reprepro, wget
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-repo-manager/soplos-repo-manager_0.0.1_all.deb
+Size: 100636
+SHA256: 6292681b7e7d1753abb56041156f34a69115ce3beeaece8758c57ebb998bfe89
+SHA1: c8a14ad613ff7e3950d4d4a8bab934f569ffd307
+MD5sum: 12834574c8e0c30b8d6cd5c2aa9c6ab9
+Description: GitHub Manager repo
+
 Package: soplos-theme-manager
 Version: 1.0.3
 Architecture: all
