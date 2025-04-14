@@ -1,0 +1,9 @@
+Origin: SoplosLinux
+Label: SoplosLinux
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Repositorio de SoplosLinux
+SignWith: A78DB41BC62B1E00
+Pull: stable
