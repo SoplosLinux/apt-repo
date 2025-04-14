@@ -118,9 +118,9 @@ Maintainer: Sergi Perich <info@sergiperich.es>
 Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-welcome-live/soplos-welcome-live_1.0.2_all.deb
-Size: 313228
-SHA256: 2791dabf3b0962e5d95ec3c2686c95a17f84751a6b7a0f2aa70f28cab184e0bb
-SHA1: 4c64e957dfc7d1e4b46911f81b09e1b109d47f21
-MD5sum: 49417bead09d642e1ab04f6493e77e51
+Size: 313224
+SHA256: 1bb8667128bdf28dc3014814c98f6911c4d6eb9cc7cd440492b6b0a28c02a832
+SHA1: 8919819d322dddd882475ef8899973055b82bf11
+MD5sum: 88432caad4975d894432416c2cb9e5dd
 Description: Welcome to Soplos Linux Live
 
