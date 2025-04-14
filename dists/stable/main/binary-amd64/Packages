@@ -82,17 +82,3 @@ SHA1: 7e4d620c36345bace6f6d58262f9716fee3dc023
 MD5sum: aa19ef985c058d61ca5408ca7dadb6ee
 Description: Plymouth theme manager
 
-Package: soplos-welcome-live
-Version: 1.0.2
-Architecture: all
-Depends: python3 (>= 3.8), python3-gi, debhelper-compat, dh-python, gir1.2-gtk-3.0, python3-all, python3-gi, python3-setuptools
-Maintainer: Sergi Perich <info@sergiperich.es>
-Priority: optional
-Section: utils
-Filename: pool/main/s/soplos-welcome-live/soplos-welcome-live_1.0.2_all.deb
-Size: 313224
-SHA256: cccac2ca3ed4c5eb2d3f409d248834254fa93c9276b340b6b567bb88d068d936
-SHA1: 111f49e76fb72bf8a9a7a6e75f6eefd01d0610fd
-MD5sum: 3e66b6c4e6024a3390cbb2fd4858dfb3
-Description: Welcome to Soplos Linux Live
-
