@@ -68,20 +68,6 @@ SHA1: c41b885e48558328db35d8ddb2681b3b170d9c67
 MD5sum: cbdc5ef0b595416c1182f365c0a5bc1d
 Description: Cambio de idioma en sistemas Live
 
-Package: soplos-packager
-Version: 1.0.0
-Architecture: all
-Depends: python3 (>= 3.8), python3-gi, debhelper-compat, dh-python, dpkg-dev, gir1.2-gtk-3.0, libgtk-3-0, make, policykit-1 | pkexec, python3, python3-all, python3-gi, python3-setuptools, python3-xlib
-Maintainer: Sergi Perich <info@sergiperich.es>
-Priority: optional
-Section: utils
-Filename: pool/main/s/soplos-packager/soplos-packager_1.0.0_all.deb
-Size: 107660
-SHA256: c538f92f8cb090c31803107ad2922b14710cd7f169821d7099b8647590414be7
-SHA1: f3cfbd19f32d314084c607774121cb0c60574827
-MD5sum: abd0ab33fbd43db40751426363ecef38
-Description: Packager apps to .deb
-
 Package: soplos-plymouth-manager
 Version: 1.0.0
 Architecture: all
