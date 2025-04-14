@@ -4,35 +4,35 @@ Hash: SHA512
 Origin: SoplosLinux
 Label: SoplosLinux
 Codename: stable
-Date: Mon, 14 Apr 2025 21:45:56 UTC
+Date: Mon, 14 Apr 2025 21:45:58 UTC
 Architectures: amd64
 Components: main
 Description: Repositorio de SoplosLinux
 MD5Sum:
- 37cfc80525f5bf67e07c9374fd705eef 5961 main/binary-amd64/Packages
- 62f3834b839a5f4dd1ed72fa0d9711e1 1920 main/binary-amd64/Packages.gz
+ 3daa17fc752f5834aeb71c3bd83691f1 5397 main/binary-amd64/Packages
+ 2afb094d183d67102837437d5a9ba222 1774 main/binary-amd64/Packages.gz
  bd3dc68e8d0f95fa81bda7c2ad4cfbff 115 main/binary-amd64/Release
 SHA1:
- 459ce06b1300b454d3d3a9cd29c29ac48906ff7c 5961 main/binary-amd64/Packages
- da308be67036cc2af3e3ad7660a5bc88b9939f6e 1920 main/binary-amd64/Packages.gz
+ 92d06ab8b38a28d9bc8487f468304cddbaa2c061 5397 main/binary-amd64/Packages
+ 4f33cbc3970aa21b63be5e6336693a7ff32ae83b 1774 main/binary-amd64/Packages.gz
  150e678c04904c4ce75dd395ccaa9e1903a36362 115 main/binary-amd64/Release
 SHA256:
- 4d8adbf92f588326ee7bd2e2563f7d13112ce498786d39ff1756157f14017570 5961 main/binary-amd64/Packages
- 40feba1216a159e57942e6f81e2acaeb66b5b69b90291cd7b0094ab65be64381 1920 main/binary-amd64/Packages.gz
+ 5b1c7f1c872991702cd9d63a037d7d7234f49b86d2b85e4ef62154ed78e72365 5397 main/binary-amd64/Packages
+ 47db212fc0a315076caeb3f16124fd6b1724ad0a73518ea429f0014397732bd6 1774 main/binary-amd64/Packages.gz
  7875a443d979650b449842804c8fd3a2869e04580c1c779744f9179f8d4548dc 115 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEUJYTHoWQApRERMuzp420G8YrHgAFAmf9ghQACgkQp420G8Yr
-HgBWsRAApOPK/MpotSgyv7kJeZrniB6vVXG4iIqzwSw6stWJt7oV1nLgeACOj60L
-8Jty6id376ZqUXCIIpyU6cEYIM84iBFH+M3wTO3/8lITUbMfM24hsQmKwKXBQzZg
-cpapMuv1xdPXBk1EVSn8LA35nS+HOjDiMdryIbEB+8/1L5+riE7fzdK7euUuP/Rg
-mNh+CucHT4ORAKynUJZlS2Xm1RX39nMh8zlkLCiMQW+0pJ3FPrticWEi56FJATYY
-KKXnFKXsEBYnlO8rvpKeu8LToJ6de2ATJF+RgWSXQMCzGlmJyCJ54z+CTlryPmzc
-gUz7YeBEidQFws6XC8Qm9ZJIaA9hg7PMGu5OWWo81Ba++p7/YREfLPq+b2Zc47/8
-/uI7SJPC8fkqW1w3h+jmiqXCethA3erE8W0et6AEJL1ELz+YB9d0fE9XxH7wZMn8
-KVHW2/YcclJlhW5DwnVFxpop3DiWMiYOdCkN8L8Dok2+yxXKSr58ZbB5KDKftiRE
-mWphjNjuxIGrdgfao2JVK8ITZ0CK1UpzbAg9UG+cVr/wkGaw3/D/3isN6rFP+7XY
-MyYYEU2Ezs2wJenrY/rl3G2SCcQS5fj1mueNauBXl09kdgdK9iWVaKhoOqxLN3dp
-sYtWQ4x6UlDcjC2q8LF47DNpbNmBnnTcSnzvZB7mtyJddbKgt/Q=
-=Vh20
+iQIzBAEBCgAdFiEEUJYTHoWQApRERMuzp420G8YrHgAFAmf9ghcACgkQp420G8Yr
+HgCwdBAApyD1Z8yLvsbv4eSzEGuFpoXOFRCCYQncIXxmC+SSvF4yvPOYC7QwybBZ
+zyY/8eNrKmc+xJVxP7KMcf3FWDlnXJ1b+ODM2HreqCRUd6k8XY9RuCco8+5bPjT6
+es8CqIpjVUMFwqt0wiqgptVHsz4BuYoOKe/IIk/THhuBAfw1EQdIe0PqT1PafKUY
+psmems5aR4c9Xjw8XSELMa9EkuonoNrsZ/rXZfEdx8gOYUX6WqbWyhRjBY47apfI
+hKkDDjnM3CHOJV+FcpT3E3qFNQmJLa4Z6JwwphAndEmjoYH2BVGREAXmZLWDZoz5
+2HnywEEHRjcq3Ut0jqY69cnXEVUz5NZ4ZhUHGm16S4gMVv2hTiydP3TsOHftZuld
+oelpunBHdGUqzIHOu3Mlk3rY/yfUnm6DpguirfJoczWBxvhtJY6dCLLXmGHG1rrQ
+gzWc4eb6wlrm1rrqWSsgtLY3M/wx9PHbdlxv08VOFGQM0nl2Xafeg1N3dqWfo+Hw
+vweRIosmikYNvDuuN7+cgKWZsLLgGz5GJkQe+yCpgfKEzb6JrjLGPJ0aqo5Ha9dp
+K6Ws+e9jKSUHvCdLUdM76s19xTjgPHtpWMjjmSB79BE3Vtptt4xikD1M73wqs7ID
+TEXItYq37R+7QB38FfCQ/r/O7/LwHbmvLJS/KG/JHhUyH6fleY8=
+=o6Az
 -----END PGP SIGNATURE-----
