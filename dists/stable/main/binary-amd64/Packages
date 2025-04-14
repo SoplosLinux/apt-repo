@@ -40,20 +40,6 @@ SHA1: 1efd9cdb89945b9ceef35a4ef63bcfa54a877a8f
 MD5sum: e8f7ca4d7494967cfd91fc4d402a619b
 Description: Creates ISO Linux Live Desktop
 
-Package: soplos-locales
-Version: 1.0.0
-Architecture: all
-Depends: python3 (>= 3.8), python3-gi, debhelper-compat, dh-python, gir1.2-gtk-3.0, locales, python3, python3-gi, x11-xkb-utils
-Maintainer: Sergi Perich <info@sergiperich.es>
-Priority: optional
-Section: utils
-Filename: pool/main/s/soplos-locales/soplos-locales_1.0.0_all.deb
-Size: 88672
-SHA256: 52d27e442b47a28530881ab2936b00fb62491f53876e4faf93172fe4d8cefb71
-SHA1: 73c9056362d6f5b126b63abe7b57eac2b7d1ebd9
-MD5sum: 87de0c84f8f189387095090929589109
-Description: Cambio de idioma en sistemas Live
-
 Package: soplos-packager
 Version: 1.0.0
 Architecture: all
