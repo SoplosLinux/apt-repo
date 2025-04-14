@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: SoplosLinux
+Label: SoplosLinux
+Codename: stable
+Date: Mon, 14 Apr 2025 12:33:34 UTC
+Architectures: amd64
+Components: main
+Description: Repositorio de SoplosLinux
+MD5Sum:
+ b6e06d1f8a54aef40e7c7a72aee7c6c6 670 main/binary-amd64/Packages
+ f0405337a5b398ce5085d9f7e1713885 445 main/binary-amd64/Packages.gz
+ bd3dc68e8d0f95fa81bda7c2ad4cfbff 115 main/binary-amd64/Release
+SHA1:
+ fd9f947092a69bc0bf1fc9720baa06d848f27e70 670 main/binary-amd64/Packages
+ 42834b81b1655a344ef426c6064b9d2869752ac4 445 main/binary-amd64/Packages.gz
+ 150e678c04904c4ce75dd395ccaa9e1903a36362 115 main/binary-amd64/Release
+SHA256:
+ fd85ffed9f0b58cac360c587caac3e25e23e4f82d00982197a6a5d9324547832 670 main/binary-amd64/Packages
+ 1d34f204639b202945d68267b0eaebb8b87c9ccab057c3da7525f5073b00d8c9 445 main/binary-amd64/Packages.gz
+ 7875a443d979650b449842804c8fd3a2869e04580c1c779744f9179f8d4548dc 115 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEUJYTHoWQApRERMuzp420G8YrHgAFAmf9AJ4ACgkQp420G8Yr
+HgDYng/+LiXrI3IY8fvcrf+zbYyVkvfjYORW9BghOu18JbH+SV4q6ZduMwc2fB5g
+tdkd3L3bewJgyJxdBTXlRLPey1LPzOHyeOyIIS+pY1JbCUmE4U8iiFJhxDBPD/+9
+cejWGWunt/tFW2FVCOIyqvst8HYM/OyClQBekGR2uW65ILhLbKbWD1CA0i/AehtR
+xDyYTY2gSY8l3EBY76O06GKbSVms5zjUkm8tlGL6m2lxcRQtLXjTTsMggz/Lr1hH
+cprd67G09yel5U6O11ofIo4Z8uMUK+4Kq80G04+jFAJJQo08HNLzwxOnN3AkAQO+
+Z6g2r6BPlDojV8FqaCW1S2rZ7Engt0FEAtANciN8enATGr2A6bhO9V1fIPBqR96c
+6OH2t/MhPfaXorHMQ+i0SDrtDIaiM8WncSzxsBzxHfW8JwGOjz8gfUFyMRiHnlQT
+lCPdhOxKA7mPASamLuKQLzaYVTt5bl8XytwB4/MXSzuQKU7IBd/IEwqfewycvsbv
+BQq8rb4yO9eJ6UAfsgw2OKHwk3p+Vo08WnbmgaV+sVZizWN5mO5wVSrndOrdbnzE
+E9NKmQCq8+BSjpbEK6T3OKTrNFWgnYRZmBE9OKgz5sQQYg1vEI3PIoIzmIKjGKoI
+b4TDjkKixZsW+EqqILjxR+PTX769Kyx4DCK6eMebVGynJzNJkwc=
+=jx0f
+-----END PGP SIGNATURE-----
