@@ -54,17 +54,3 @@ SHA1: d4d3140587e51cb264de0d57aedcc6218934ffee
 MD5sum: cf2de53ed76e932bfc4c0cad709db632
 Description: GitHub Manager repo
 
-Package: soplos-theme-manager
-Version: 1.0.3
-Architecture: all
-Depends: python3 (>= 3.8), python3-gi, debhelper-compat, gir1.2-gtk-3.0 | python3-gi-cairo, libnotify-bin | notify-osd, mugshot | gnome-control-center | unity-control-center, python3, python3-cairo | python-cairo, python3-dbus | python-dbus, python3-gi (>= 3.20) | python-gi (>= 3.20), python3-psutil | python-psutil, python3-setuptools, python3-xlib | python-xlib, scrot | gnome-screenshot | imagemagick, wmctrl, xfce4-panel | xfce4-panel-gtk3, xfconf, xfdesktop4 | xfdesktop
-Maintainer: Sergi Perich <info@sergiperich.es>
-Priority: optional
-Section: utils
-Filename: pool/main/s/soplos-theme-manager/soplos-theme-manager_1.0.3_all.deb
-Size: 17509480
-SHA256: db9aeea2c0051f263d68dd8398c454d51eff595ae8961e7a376c08385a0a72ee
-SHA1: aaabce9f40e2e23e6a34b8541b9dbac961a500bb
-MD5sum: a7ec039499c5d276b0ea17b186cd42ca
-Description: Theme manager for xfce
-
