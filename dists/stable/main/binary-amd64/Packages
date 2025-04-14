@@ -1,17 +1,3 @@
-Package: soplos-chroot
-Version: 1.0.0
-Architecture: all
-Depends: python3 (>= 3.8), python3-gi, debhelper-compat, gir1.2-gtk-3.0, gparted, mount, python3, python3-gi, python3-setuptools
-Maintainer: Sergi Perich <info@sergiperich.es>
-Priority: optional
-Section: utils
-Filename: pool/main/s/soplos-chroot/soplos-chroot_1.0.0_all.deb
-Size: 90796
-SHA256: 1ae0d3a4687d680eea54e9a4a7c835559b71a0051f47866c331bea94766b03d3
-SHA1: 163b7f47997febf982acdab0054e3f3da4b42865
-MD5sum: 2915cbcf8703e374d9a476d750542e4b
-Description: Rescate de iso live
-
 Package: soplos-docklike
 Version: 1.0.0
 Architecture: all
