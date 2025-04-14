@@ -12,20 +12,6 @@ SHA1: 75d6433025f583955ef32b4a79754a74e7244989
 MD5sum: ee54b1b68660df1592116b882ebcf540
 Description: Docklike apps manager
 
-Package: soplos-grub-editor
-Version: 1.0.0
-Architecture: all
-Depends: python3 (>= 3.8), python3-gi, debhelper-compat, gir1.2-polkit-1.0, grub2-common | grub2, imagemagick, pkexec, polkitd, python3-all, python3-cairo, python3-dbus, python3-gi, python3-pil, python3-polib, python3-setuptools, python3-xlib
-Maintainer: Sergi Perich <info@sergiperich.es>
-Priority: optional
-Section: utils
-Filename: pool/main/s/soplos-grub-editor/soplos-grub-editor_1.0.0_all.deb
-Size: 113724
-SHA256: 08a07bc9a23374e357fe39a5d6744e9182b66b4b669f54ebda8cca675ec3648c
-SHA1: 0181f274417131ed339d958a13392a82d02661fd
-MD5sum: 58512870ef62820317be5262380e435c
-Description: Graphical GRUB Editor
-
 Package: soplos-iso-builder
 Version: 1.0.0
 Architecture: all
