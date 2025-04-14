@@ -21,9 +21,9 @@ Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-docklike/soplos-docklike_1.0.0_all.deb
 Size: 96920
-SHA256: b48346e7f2d53454dd907ffa481e44134e0149ee71010a4cc6e0e832b5990f0f
-SHA1: 65477c93b4de39bd414f98598f713efb5108cb8e
-MD5sum: 91456d13853235df369179383f7fa74b
+SHA256: 8f6733526b243e545701c4b7262e90c8517564409d488eef37debe7b913ed9c7
+SHA1: c264b5cb65d00557948a72c4213a3022b841d627
+MD5sum: 92f5a63d890bb016c79bdf51e6ccb29d
 Description: Docklike apps manager
 
 Package: soplos-grub-editor
