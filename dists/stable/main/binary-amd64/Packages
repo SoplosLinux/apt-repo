@@ -40,3 +40,17 @@ SHA1: 0181f274417131ed339d958a13392a82d02661fd
 MD5sum: 58512870ef62820317be5262380e435c
 Description: Graphical GRUB Editor
 
+Package: soplos-iso-builder
+Version: 1.0.0
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, debhelper-compat, dh-python, gir1.2-gtk-3.0, grub-common, mtools, python3-all, python3-gi, python3-setuptools, squashfs-tools
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-iso-builder/soplos-iso-builder_1.0.0_all.deb
+Size: 102664
+SHA256: 78f78f8592217b748795d98ba7ec0d6c07de88c2ee47421ddda84dbe49b36af4
+SHA1: 1efd9cdb89945b9ceef35a4ef63bcfa54a877a8f
+MD5sum: e8f7ca4d7494967cfd91fc4d402a619b
+Description: Creates ISO Linux Live Desktop
+

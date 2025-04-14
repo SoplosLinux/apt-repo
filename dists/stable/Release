@@ -1,19 +1,19 @@
 Origin: SoplosLinux
 Label: SoplosLinux
 Codename: stable
-Date: Mon, 14 Apr 2025 11:02:26 UTC
+Date: Mon, 14 Apr 2025 11:02:33 UTC
 Architectures: amd64
 Components: main
 Description: Repositorio de SoplosLinux
 MD5Sum:
- 8093c1d0160060bcc5fa8a83804f3e01 1876 main/binary-amd64/Packages
- 6ff2039e104b930021138151f86be906 793 main/binary-amd64/Packages.gz
+ 110126238674f89bbba7338b9524801f 2476 main/binary-amd64/Packages
+ 539ec01c8a7b8e84f807c8b3b18b8768 965 main/binary-amd64/Packages.gz
  bd3dc68e8d0f95fa81bda7c2ad4cfbff 115 main/binary-amd64/Release
 SHA1:
- 345fc99885c72b05345af1d414272655de396bd2 1876 main/binary-amd64/Packages
- 0db3e0ff23eb2f757f2e4c09e73d2fcfcbcc0f23 793 main/binary-amd64/Packages.gz
+ a4f4fe99b396aa32e3e1c1591929e9af3513d2d3 2476 main/binary-amd64/Packages
+ 942d6e31caaa8635c016f665ec924836223b56ff 965 main/binary-amd64/Packages.gz
  150e678c04904c4ce75dd395ccaa9e1903a36362 115 main/binary-amd64/Release
 SHA256:
- a1815dbfd768c8a75e1edef40c93100b5eb40d4cb283bcbd2aa8aa7eba414d7f 1876 main/binary-amd64/Packages
- 9a562575e8f8fd6deb941cbf36191a50b9c6e0bad01c019d8134491a73bb6743 793 main/binary-amd64/Packages.gz
+ 62afc172bb2289aafa97c5be3daf3f233309fe6bb1258e5c36e057fa8ebddfd1 2476 main/binary-amd64/Packages
+ 0d718ee32da1f52c6c45ac2508b08610b9d7307904fabbc9834eddc2eacb49fc 965 main/binary-amd64/Packages.gz
  7875a443d979650b449842804c8fd3a2869e04580c1c779744f9179f8d4548dc 115 main/binary-amd64/Release
