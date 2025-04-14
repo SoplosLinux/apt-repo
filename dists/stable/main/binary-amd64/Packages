@@ -82,3 +82,17 @@ SHA1: b8be7ec7167de8e3c9da1563afae844169b12583
 MD5sum: 8036116b145d76f0df413b07a295c810
 Description: Theme manager for Xfce
 
+Package: soplos-welcome
+Version: 1.0.0
+Architecture: all
+Depends: python3 (>= 3.8), python3-gi, curl, debhelper-compat, dh-python, gir1.2-gtk-3.0, python3-all, python3-gi, python3-psutil, python3-setuptools, python3-xlib, wget
+Maintainer: Sergi Perich <info@sergiperich.es>
+Priority: optional
+Section: utils
+Filename: pool/main/s/soplos-welcome/soplos-welcome_1.0.0_all.deb
+Size: 14022900
+SHA256: 608557910fb5f6585d3c1753074e8ffa742114a60973030cb297f38f3930e544
+SHA1: 3270510f0d6bfb501bcb13940aaec5a3edf568bd
+MD5sum: 224dbb856d7d318dd04c143ce6602de1
+Description: Welcome to the Soplos Linux
+
