@@ -20,10 +20,10 @@ Maintainer: Sergi Perich <info@sergiperich.es>
 Priority: optional
 Section: utils
 Filename: pool/main/s/soplos-docklike/soplos-docklike_1.0.0_all.deb
-Size: 95956
-SHA256: a7f1c2ed27abe43bcada7f9c09fe08f2f518e71efae02523b81c12e058c4e1f6
-SHA1: f7506377507e8c56092bdbaa4abc4cbff79ad94d
-MD5sum: 913faeb1a729b1b0ef3c800c77d59c65
+Size: 96920
+SHA256: b48346e7f2d53454dd907ffa481e44134e0149ee71010a4cc6e0e832b5990f0f
+SHA1: 65477c93b4de39bd414f98598f713efb5108cb8e
+MD5sum: 91456d13853235df369179383f7fa74b
 Description: Docklike apps manager
 
 Package: soplos-grub-editor
