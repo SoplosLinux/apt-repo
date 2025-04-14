@@ -12,20 +12,6 @@ SHA1: 75d6433025f583955ef32b4a79754a74e7244989
 MD5sum: ee54b1b68660df1592116b882ebcf540
 Description: Docklike apps manager
 
-Package: soplos-packager
-Version: 1.0.0
-Architecture: all
-Depends: python3 (>= 3.8), python3-gi, debhelper-compat, dh-python, dpkg-dev, gir1.2-gtk-3.0, libgtk-3-0, make, policykit-1 | pkexec, python3, python3-all, python3-gi, python3-setuptools, python3-xlib
-Maintainer: Sergi Perich <info@sergiperich.es>
-Priority: optional
-Section: utils
-Filename: pool/main/s/soplos-packager/soplos-packager_1.0.0_all.deb
-Size: 108556
-SHA256: 08be5f680f45e2afe756858bad16c467c31c3d69a7ad8b833b05b5c9778a9a96
-SHA1: 13e81ca26318661f68e50be92482af19151997cd
-MD5sum: 8fd0c1bd59448397e7bfeca329d21823
-Description: Packager apps to .deb
-
 Package: soplos-plymouth-manager
 Version: 1.0.0
 Architecture: all
