@@ -1,5 +1,0 @@
-basedir .
-ask-passphrase
-verbose
-keepunreferencedfiles
-keepunusednewfiles
