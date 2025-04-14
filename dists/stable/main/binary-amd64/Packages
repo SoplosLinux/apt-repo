@@ -40,20 +40,6 @@ SHA1: c41b885e48558328db35d8ddb2681b3b170d9c67
 MD5sum: cbdc5ef0b595416c1182f365c0a5bc1d
 Description: Cambio de idioma en sistemas Live
 
-Package: soplos-repo-manager
-Version: 0.0.1
-Architecture: all
-Depends: python3 (>= 3.8), python3-gi, apt-utils, debhelper-compat, dh-python, dpkg, gir1.2-gtk-3.0, git, gnupg, python3-all, python3-gi, python3-git, python3-pip, python3-setuptools, reprepro, wget
-Maintainer: Sergi Perich <info@sergiperich.es>
-Priority: optional
-Section: utils
-Filename: pool/main/s/soplos-repo-manager/soplos-repo-manager_0.0.1_all.deb
-Size: 99688
-SHA256: 45011645af6b8e2f873fb5fb9656ba4b4861379fedf97f2a2b501a1a3163f36b
-SHA1: d4d3140587e51cb264de0d57aedcc6218934ffee
-MD5sum: cf2de53ed76e932bfc4c0cad709db632
-Description: GitHub Manager repo
-
 Package: soplos-welcome-live
 Version: 1.0.2
 Architecture: all
