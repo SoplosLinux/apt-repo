@@ -40,20 +40,6 @@ SHA1: 19d57ae96dcf6e40560c3cd1d9e54748af9a7ed4
 MD5sum: ca69a715012fcd85d2a2e87d2684cc8f
 Description: Plymouth theme manager
 
-Package: soplos-theme-manager
-Version: 1.0.0
-Architecture: all
-Depends: python3 (>= 3.8), python3-gi, debhelper-compat, gir1.2-gtk-3.0 | python3-gi-cairo, libnotify-bin | notify-osd, mugshot | gnome-control-center | unity-control-center, python3, python3-cairo | python-cairo, python3-dbus | python-dbus, python3-gi (>= 3.20) | python-gi (>= 3.20), python3-psutil | python-psutil, python3-setuptools, python3-xlib | python-xlib, scrot | gnome-screenshot | imagemagick, wmctrl, xfce4-panel | xfce4-panel-gtk3, xfconf, xfdesktop4 | xfdesktop
-Maintainer: Sergi Perich <info@sergiperich.es>
-Priority: optional
-Section: utils
-Filename: pool/main/s/soplos-theme-manager/soplos-theme-manager_1.0.0_all.deb
-Size: 17509808
-SHA256: c9aecab9dba794475d16c82e80e8e513f24c6d82fcf4db3fad44604a04dae913
-SHA1: ab4548c92be969b8c407f8318b865f8c4824c808
-MD5sum: 1f0f9756a3fb61dd90a77b34213a876e
-Description: Theme manager for Xfce
-
 Package: soplos-welcome
 Version: 1.0.0
 Architecture: all
